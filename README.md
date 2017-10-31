@@ -1,4 +1,4 @@
-# velib_fun
+# velib-fun
 
 Playing with jupyter notebook, python, pandas dataframes, matplotlib and folium for fun.
 
