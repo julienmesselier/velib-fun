@@ -2,6 +2,12 @@
 
 Playing with jupyter notebook, python, pandas dataframes, matplotlib and folium for fun.
 
+Results obtained with the notebook and JC Decaux open data api:
+___
+Some stats:
+<a href='img/Velib-1-stats.png'></a>
+___
+
 Prerequisites:
 - install anaconda (python 3) 
 - pip install folium (to draw nice maps)
